@@ -1,10 +1,5 @@
-<!DOCTYPE html>
-<head>
-    <title>
-        INDEX PAGE
-    </title>
-    </head>
-    <body> 
+
+        
 <center><h1><strong><em>ASSIGNMENT #3</em></strong></h1></center>
 <center><h1><strong><em>MARIA FURQAN</em></strong></h1></center><hr>
 <h1><b><i>7 WONDERS OF WORLD</i></b></h1>
@@ -41,12 +36,17 @@ target="_blank">Learn more about 7 wonders </a>
 
 
 
+CREATED BY:MARIA FURQAN
 
 
 
 
 
 
-    </body>
+
+
+
+
+    
 
 
