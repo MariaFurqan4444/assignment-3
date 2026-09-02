@@ -1,90 +1,52 @@
-7 Wonders of the World Website
- Assignment #3
+<!DOCTYPE html>
+<head>
+    <title>
+        INDEX PAGE
+    </title>
+    </head>
+    <body> 
+<center><h1><strong><em>ASSIGNMENT #3</em></strong></h1></center>
+<center><h1><strong><em>MARIA FURQAN</em></strong></h1></center><hr>
+<h1><b><i>7 WONDERS OF WORLD</i></b></h1>
+<p>Welcome to our website about the 7 wonders of the world.</p>
+<p>These amazing places are famous for their beauty,history,
+    archietecture and cultural importance.Here you can explore some of the 
+    most famous and amazing landmarks from around the world</p>
+    <h2><strong><em>DISCOVER THE WONDERS</em></strong></h2>
 
-Student Name: Maria Furqan
-Project: 7 Wonders of the World Website
-Technology Used: HTML
+<a href="index.html">7 Wonders Intro</a><br><br>
+<a href="about.html">About 7 wonders</a><br><br>
+<a href="home.html"> Home</a><br><br>
+<a href="content.html">Explore the 7 wonders</a><br><br>
+<a href="links.html">Useful links</a><br><br><br><br>
+<center><h2><b><em>THE 7 WONDERS</em></b></h2></center>
+<ol>
+    <li><b>Great wall of China</b></li>
+    <li><b>Petra</b></li>
+    <li><b>Colosseum</b></li>
+    <li><b>Chichen Itza</b></li>
+    <li><b>Machu Picchu</b></li>
+    <li><b>Christ the Redmeer</b></li>
+    <li><b>Taj Mehal</b></li>
+</ol>
 
- Project Description
+<h2><b>LEARN MORE</b></h2>
+<p> click on the pages above to explore The 7 Wonders Of world
+    and learn about their History ,Location and special features
+</p>
+<a href="https://en.wikipedia.org/wiki/New_7_Wonders_of_the_World"
+target="_blank">Learn more about 7 wonders </a>
 
-This project is a simple multi-page website about the 7 Wonders of the World. The website provides information about famous historical landmarks, including their history, location, architecture, and cultural importance.
 
-The website is created using basic HTML concepts such as headings, paragraphs, lists, images, hyperlinks, internal page links, and external links.
 
-7 Wonders Included
 
-The website contains information about the following New Seven Wonders of the World:
 
-Great Wall of China
-Petra
-Colosseum
-Chichen Itza
-Machu Picchu
-Christ the Redeemer
-Taj Mahal
-Website Pages
 
-The project contains the following HTML pages:
 
-index.html — Introduction page of the website
-about.html — Information about the 7 Wonders
-home.html — Home/exploration page
-content.html — Detailed information about each wonder
-links.html — Useful external and internal links
- Features
-Introduction to the 7 Wonders of the World
-List of all seven wonders
-Detailed information about each wonder
-Images of the wonders
-Internal navigation links between pages
-Links to specific sections of the content page
-External links to useful websites
-Simple HTML formatting using headings, bold, italic, paragraphs, lists, and images
-Background color used on the content page
- HTML Concepts Used
 
-The project demonstrates the use of:
 
-HTML headings (h1, h2, h3, etc.)
-Paragraphs (p)
-Ordered lists (ol)
-Unordered lists (ul)
-List items (li)
-Hyperlinks (a)
-Images (img)
-Line breaks (br)
-Bold text (b, strong)
-Italic text (i, em)
-Superscript (sup)
-Image alt attributes
-Internal page anchors
-External URLs
-target="_blank"
-Basic inline styling
- Navigation
 
-The pages are connected through navigation links so users can easily move between:
 
-Index → About → Home → Content → Useful Links
+    </body>
 
-The content.html page also contains internal links that allow users to jump directly to information about a particular wonder.
 
- External Links
-
-The project includes external links for additional information, including:
-
-Wikipedia
-Pinterest
- Purpose of the Project
-
-The main purpose of this assignment is to practice creating a multi-page HTML website and understand how different HTML elements work together to create a basic website.
-
- Created by
- MARIA FURQAN
- 
-
- Assignment
-
-Assignment #3 — 7 Wonders of the World
-
-Made with using HTML.
